@@ -14,6 +14,10 @@ This is a Flask-based web application that allows users to view and apply for jo
 ## Technical Details
 
 * Built using Flask, a micro web framework for Python.
+<<<<<<< HEAD
+=======
+* Database management using MySql and sqlalchemy. 
+>>>>>>> 5eaa2ee613494ce1171fb58c87442a4ab32aae52
 * Front-end built using HTML, CSS.
 
 ## Major Tech-Stack
@@ -34,4 +38,8 @@ I welcome contributions to the project! If you have any suggestions, bug fixes, 
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License.
+=======
+This project is licensed under the MIT License.
+>>>>>>> 5eaa2ee613494ce1171fb58c87442a4ab32aae52
